@@ -7,6 +7,8 @@
 
 ## 🚀 Executive Summary
 In de huidige financiële markt is de grootste uitdaging voor risicomodellen het behoud van **marktgeheugen** terwijl data stationair wordt gemaakt voor Machine Learning. Dit project demonstreert een end-to-end pipeline die dit probleem oplost middels **Fractional Differentiation (FracDiff)**. 
+<img width="468" height="151" alt="Information Retention" src="https://github.com/user-attachments/assets/80711d73-412f-4d91-83a2-639f945887e2" />
+
 
 Waar standaard 1ste-orde differentiatie ($d=1$) vaak meer dan 80% van het voorspellende signaal vernietigt, behaalt dit model een **Information Retention Score van 93,82%**.
 
