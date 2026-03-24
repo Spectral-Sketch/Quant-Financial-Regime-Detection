@@ -1,5 +1,5 @@
 # Financial Regime-Shift Detection: Memory-Preserving Risk Indicators
-**Auteur:** [A. Schrijvers   ]  
+**Auteur:** A. Schrijvers    
 **Focus:** Quantitative Risk Management | Model Validation | Time-Series Engineering  
 **Expertise:** 35 jaar ervaring in wiskundige en natuurwetenschappelijke modellering
 
